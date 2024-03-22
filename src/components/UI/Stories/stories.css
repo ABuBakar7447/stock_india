@@ -1,0 +1,10 @@
+/* HiddenScrollbar.css */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 0px;
+    /* This will hide the scrollbar in WebKit browsers */
+}
+
+/* For Firefox */
+.custom-scrollbar {
+    scrollbar-width: none;
+}
