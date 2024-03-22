@@ -13,7 +13,7 @@ const Navbar = () => {
 
     return (
         <div
-            className={`lg:relative absolute h-screen duration-700 bg-[#1e375f] text-white ${openSideNav ? "md:w-2/4  w-1/2" : "w-0"} `}
+            className={`lg:relative absolute h-screen duration-700 bg-[#1e375f] text-white ${openSideNav ? "md:w-2/4  w-3/5" : "w-0"} `}
         >
 
             <div className="absolute top-1/2 -right-6 -translate-y-1/2">

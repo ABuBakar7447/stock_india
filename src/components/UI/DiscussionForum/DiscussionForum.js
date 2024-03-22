@@ -22,10 +22,10 @@ const DiscussionForum = () => {
                     {discussionData?.map(data =>
                         <div key={data.id} >
 
-                            <div className="flex justify-center gap-3 my-5 bg-slate-200 text-black lg:p-5">
+                            <div className="flex justify-center lg:gap-3 gap-1 my-5 bg-slate-200 text-black lg:p-5 p-1 shadow-xl ">
                                 <Image src={data.image} alt="avater image" width={25} height={25} className="w-10 h-10 object-cover" />
 
-                                <div className="flex flex-col gap-3 lg:w-4/5 md:w-3/4 px-2">
+                                <div className="flex flex-col gap-3 lg:w-4/5 md:w-3/4 w-3/4 px-2">
 
                                     <div className="flex justify-start lg:gap-10">
 
@@ -45,15 +45,15 @@ const DiscussionForum = () => {
                                     <div className="flex justify-evenly items-center">
                                         <p className="w-1/4 text-start flex items-center gap-2">
                                             <FaRegHeart />
-                                            {data.likes}
+                                            {data.likes}K 
                                         </p>
                                         <p className="w-1/4 text-start flex items-center gap-2">
                                             <FaEye />
-                                            {data.views}
+                                            {data.views}k
                                         </p>
                                         <p className="w-1/4 text-start flex items-center gap-2">
                                             <FaRegCommentAlt />
-                                            {data.comments}
+                                            {data.comments}k
                                         </p>
                                         <p className="w-1/4 text-start flex items-center gap-2">
                                             <GoShareAndroid />

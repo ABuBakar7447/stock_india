@@ -6,10 +6,10 @@ export const discussionData = [
         postTitle: "Weekly Company Discussion ",
         details:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, natus minus. Rem cumque ea consectetur aspernatur repellendus dolorem voluptate cum reprehenderit ab maiores maxime explicabo repudiandae, perspiciatis delectus ad velit.",
-        postTime: "2mins Ago",
+        postTime: "2 mins Ago",
         comments: 2,
         likes: 2,
-        views: 4,
+        views: 2,
         tag: "sector 2",
     },
     {
@@ -19,7 +19,7 @@ export const discussionData = [
         postTitle: "Weekly Company Discussion ",
         details:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, natus minus. Rem cumque ea consectetur aspernatur repellendus dolorem voluptate cum reprehenderit ab maiores maxime explicabo repudiandae, perspiciatis delectus ad velit.",
-        postTime: "2mins Ago",
+        postTime: "2 mins Ago",
         comments: 2,
         likes: 2,
         views: 4,
@@ -32,7 +32,7 @@ export const discussionData = [
         postTitle: "Weekly Company Discussion ",
         details:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, natus minus. Rem cumque ea consectetur aspernatur repellendus dolorem voluptate cum reprehenderit ab maiores maxime explicabo repudiandae, perspiciatis delectus ad velit.",
-        postTime: "2mins Ago",
+        postTime: "2 mins Ago",
         comments: 2,
         likes: 2,
         views: 4,
@@ -45,7 +45,7 @@ export const discussionData = [
         postTitle: "Weekly Company Discussion ",
         details:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, natus minus. Rem cumque ea consectetur aspernatur repellendus dolorem voluptate cum reprehenderit ab maiores maxime explicabo repudiandae, perspiciatis delectus ad velit.",
-        postTime: "2mins Ago",
+        postTime: "2 mins Ago",
         comments: 2,
         likes: 2,
         views: 4,
@@ -58,7 +58,7 @@ export const discussionData = [
         postTitle: "Weekly Company Discussion ",
         details:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, natus minus. Rem cumque ea consectetur aspernatur repellendus dolorem voluptate cum reprehenderit ab maiores maxime explicabo repudiandae, perspiciatis delectus ad velit.",
-        postTime: "2mins Ago",
+        postTime: "2 mins Ago",
         comments: 2,
         likes: 2,
         views: 4,
