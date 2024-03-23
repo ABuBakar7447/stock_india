@@ -32,7 +32,7 @@ const DiscussionForum = () => {
                                         <p className="lg:w-56 w-[140px]">
                                             {data.postTitle}
                                         </p>
-                                        <p className="bg-blue-600 rounded-full text-white px-2 h-7 text-center">
+                                        <p className="bg-blue-600 rounded-full text-white w-[90px] px-1 h-7 text-center">
                                             {data.tag}
                                         </p>
 
